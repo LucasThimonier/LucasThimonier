@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @LucasThimonier
+- 👀 I’m interested in through network development
+- 🌱 I’m currently learning network administration in BTS SIO
